@@ -1,0 +1,288 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineSystem.cmake:204 (message)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      The system is: Windows - 10.0.17763 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+      ‘Ў®аЄ  ­ з в  28.04.2023 13:32:38.
+      Included response file: C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\MSBuild.rsp
+      
+      Џа®ҐЄв "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\3.26.3\\CompilerIdC\\CompilerIdC.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+      PrepareForBuild:
+        ‘®§¤ ­ЁҐ Є в «®Ј  "Debug\\".
+        ‘®§¤ ­ЁҐ Є в «®Ј  "Debug\\CompilerIdC.tlog\\".
+      InitializeBuildStatus:
+        ‘®§¤ ­ЁҐ "Debug\\CompilerIdC.tlog\\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+      ClCompile:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+        CMakeCCompilerId.c
+      Link:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
+        CompilerIdC.vcxproj -> C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\3.26.3\\CompilerIdC\\CompilerIdC.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_C_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        ” ©« "Debug\\CompilerIdC.tlog\\unsuccessfulbuild" г¤ «пҐвбп.
+        ЋЎа йҐ­ЁҐ Є "Debug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate".
+      ‘Ў®аЄ  Їа®ҐЄв  "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\3.26.3\\CompilerIdC\\CompilerIdC.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+      
+      ‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+          ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+          ЋиЁЎ®Є: 0
+      
+      Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.39
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+      
+      The C compiler identification is MSVC, found in:
+        C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/3.26.3/CompilerIdC/CompilerIdC.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-jfho73"
+      binary: "C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-jfho73"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-jfho73
+        
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_76230.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+        ‘Ў®аЄ  ­ з в  28.04.2023 13:32:40.
+        Included response file: C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\MSBuild.rsp
+        
+        Џа®ҐЄв "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jfho73\\cmTC_76230.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+        PrepareForBuild:
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_76230.dir\\Debug\\".
+          ‘®§¤ ­ЁҐ Є в «®Ј  "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jfho73\\Debug\\".
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_76230.dir\\Debug\\cmTC_76230.tlog\\".
+        InitializeBuildStatus:
+          ‘®§¤ ­ЁҐ "cmTC_76230.dir\\Debug\\cmTC_76230.tlog\\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_76230.dir\\Debug\\\\" /Fd"cmTC_76230.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.35.32217.1 ¤«п x64
+          CMakeCCompilerABI.c
+          (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_76230.dir\\Debug\\\\" /Fd"cmTC_76230.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jfho73\\Debug\\cmTC_76230.exe" /INCREMENTAL /ILK:"cmTC_76230.dir\\Debug\\cmTC_76230.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-jfho73/Debug/cmTC_76230.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-jfho73/Debug/cmTC_76230.lib" /MACHINE:X64  /machine:x64 cmTC_76230.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_76230.vcxproj -> C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jfho73\\Debug\\cmTC_76230.exe
+        FinalizeBuildStatus:
+          ” ©« "cmTC_76230.dir\\Debug\\cmTC_76230.tlog\\unsuccessfulbuild" г¤ «пҐвбп.
+          ЋЎа йҐ­ЁҐ Є "cmTC_76230.dir\\Debug\\cmTC_76230.tlog\\cmTC_76230.lastbuildstate".
+        ‘Ў®аЄ  Їа®ҐЄв  "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jfho73\\cmTC_76230.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+        
+        ‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+            ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+            ЋиЁЎ®Є: 0
+        
+        Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.04
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake:76 (cmake_check_source_compiles)"
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake:97 (CHECK_C_SOURCE_COMPILES)"
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "CMakeLists.txt:62 (find_package)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-goylb3"
+      binary: "C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-goylb3"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/ZERRASH/Desktop/glfw-3.3.8/CMake/modules"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-goylb3
+        
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_f1ca4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+        ‘Ў®аЄ  ­ з в  28.04.2023 13:32:42.
+        Included response file: C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\MSBuild.rsp
+        
+        Џа®ҐЄв "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-goylb3\\cmTC_f1ca4.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+        PrepareForBuild:
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_f1ca4.dir\\Debug\\".
+          ‘®§¤ ­ЁҐ Є в «®Ј  "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-goylb3\\Debug\\".
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_f1ca4.dir\\Debug\\cmTC_f1ca4.tlog\\".
+        InitializeBuildStatus:
+          ‘®§¤ ­ЁҐ "cmTC_f1ca4.dir\\Debug\\cmTC_f1ca4.tlog\\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f1ca4.dir\\Debug\\\\" /Fd"cmTC_f1ca4.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-goylb3\\src.c"
+          ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.35.32217.1 ¤«п x64
+          src.c
+          (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f1ca4.dir\\Debug\\\\" /Fd"cmTC_f1ca4.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-goylb3\\src.c"
+        C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-goylb3\\src.c(1,10): fatal  error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: pthread.h: No such file or directory, [C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-goylb3\\cmTC_f1ca4.vcxproj]
+        ‘Ў®аЄ  Їа®ҐЄв  "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-goylb3\\cmTC_f1ca4.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо) б ®иЁЎЄ®©.
+        
+        ЋиЁЎЄ  бЎ®аЄЁ.
+        
+        "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-goylb3\\cmTC_f1ca4.vcxproj" (жҐ«Ґў®© ®ЎкҐЄв Ї® г¬®«з ­Ёо) (1) ->
+        (–Ґ«Ґў®© ®ЎкҐЄв ClCompile) -> 
+          C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-goylb3\\src.c(1,10): fatal  error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: pthread.h: No such file or directory, [C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-goylb3\\cmTC_f1ca4.vcxproj]
+        
+            ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+            ЋиЁЎ®Є: 1
+        
+        Џа®и«® ўаҐ¬Ґ­Ё 00:00:00.68
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/CheckLibraryExists.cmake:71 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake:175 (_threads_check_lib)"
+      - "CMakeLists.txt:62 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-6u4joo"
+      binary: "C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-6u4joo"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/ZERRASH/Desktop/glfw-3.3.8/CMake/modules"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-6u4joo
+        
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_9aed8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+        ‘Ў®аЄ  ­ з в  28.04.2023 13:32:43.
+        Included response file: C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\MSBuild.rsp
+        
+        Џа®ҐЄв "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6u4joo\\cmTC_9aed8.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+        PrepareForBuild:
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_9aed8.dir\\Debug\\".
+          ‘®§¤ ­ЁҐ Є в «®Ј  "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6u4joo\\Debug\\".
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_9aed8.dir\\Debug\\cmTC_9aed8.tlog\\".
+        InitializeBuildStatus:
+          ‘®§¤ ­ЁҐ "cmTC_9aed8.dir\\Debug\\cmTC_9aed8.tlog\\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9aed8.dir\\Debug\\\\" /Fd"cmTC_9aed8.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6u4joo\\CheckFunctionExists.c"
+          ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.35.32217.1 ¤«п x64
+          CheckFunctionExists.c
+          (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9aed8.dir\\Debug\\\\" /Fd"cmTC_9aed8.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6u4joo\\CheckFunctionExists.c"
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6u4joo\\Debug\\cmTC_9aed8.exe" /INCREMENTAL /ILK:"cmTC_9aed8.dir\\Debug\\cmTC_9aed8.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-6u4joo/Debug/cmTC_9aed8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-6u4joo/Debug/cmTC_9aed8.lib" /MACHINE:X64  /machine:x64 cmTC_9aed8.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: ­Ґ г¤ Ґвбп ®вЄалвм д ©« "pthreads.lib" [C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6u4joo\\cmTC_9aed8.vcxproj]
+        ‘Ў®аЄ  Їа®ҐЄв  "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6u4joo\\cmTC_9aed8.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо) б ®иЁЎЄ®©.
+        
+        ЋиЁЎЄ  бЎ®аЄЁ.
+        
+        "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6u4joo\\cmTC_9aed8.vcxproj" (жҐ«Ґў®© ®ЎкҐЄв Ї® г¬®«з ­Ёо) (1) ->
+        (–Ґ«Ґў®© ®ЎкҐЄв Link) -> 
+          LINK : fatal error LNK1104: ­Ґ г¤ Ґвбп ®вЄалвм д ©« "pthreads.lib" [C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6u4joo\\cmTC_9aed8.vcxproj]
+        
+            ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+            ЋиЁЎ®Є: 1
+        
+        Џа®и«® ўаҐ¬Ґ­Ё 00:00:00.86
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/CheckLibraryExists.cmake:71 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake:176 (_threads_check_lib)"
+      - "CMakeLists.txt:62 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-i00yrb"
+      binary: "C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-i00yrb"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/ZERRASH/Desktop/glfw-3.3.8/CMake/modules"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-i00yrb
+        
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_18c31.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+        ‘Ў®аЄ  ­ з в  28.04.2023 13:32:44.
+        Included response file: C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\MSBuild.rsp
+        
+        Џа®ҐЄв "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i00yrb\\cmTC_18c31.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+        PrepareForBuild:
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_18c31.dir\\Debug\\".
+          ‘®§¤ ­ЁҐ Є в «®Ј  "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i00yrb\\Debug\\".
+          ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_18c31.dir\\Debug\\cmTC_18c31.tlog\\".
+        InitializeBuildStatus:
+          ‘®§¤ ­ЁҐ "cmTC_18c31.dir\\Debug\\cmTC_18c31.tlog\\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_18c31.dir\\Debug\\\\" /Fd"cmTC_18c31.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i00yrb\\CheckFunctionExists.c"
+          ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.35.32217.1 ¤«п x64
+          CheckFunctionExists.c
+          (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_18c31.dir\\Debug\\\\" /Fd"cmTC_18c31.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i00yrb\\CheckFunctionExists.c"
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i00yrb\\Debug\\cmTC_18c31.exe" /INCREMENTAL /ILK:"cmTC_18c31.dir\\Debug\\cmTC_18c31.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-i00yrb/Debug/cmTC_18c31.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZERRASH/Desktop/glfw-3.3.8/build/CMakeFiles/CMakeScratch/TryCompile-i00yrb/Debug/cmTC_18c31.lib" /MACHINE:X64  /machine:x64 cmTC_18c31.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: ­Ґ г¤ Ґвбп ®вЄалвм д ©« "pthread.lib" [C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i00yrb\\cmTC_18c31.vcxproj]
+        ‘Ў®аЄ  Їа®ҐЄв  "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i00yrb\\cmTC_18c31.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо) б ®иЁЎЄ®©.
+        
+        ЋиЁЎЄ  бЎ®аЄЁ.
+        
+        "C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i00yrb\\cmTC_18c31.vcxproj" (жҐ«Ґў®© ®ЎкҐЄв Ї® г¬®«з ­Ёо) (1) ->
+        (–Ґ«Ґў®© ®ЎкҐЄв Link) -> 
+          LINK : fatal error LNK1104: ­Ґ г¤ Ґвбп ®вЄалвм д ©« "pthread.lib" [C:\\Users\\ZERRASH\\Desktop\\glfw-3.3.8\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i00yrb\\cmTC_18c31.vcxproj]
+        
+            ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+            ЋиЁЎ®Є: 1
+        
+        Џа®и«® ўаҐ¬Ґ­Ё 00:00:00.87
+        
+      exitCode: 1
+...

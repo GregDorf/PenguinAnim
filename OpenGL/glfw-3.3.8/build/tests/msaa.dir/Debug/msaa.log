@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/ZERRASH/Desktop/glfw-3.3.8/tests/CMakeLists.txt
+  msaa.c
+  getopt.c
+  glad_gl.c
+  Создание кода...
+  msaa.vcxproj -> C:\Users\ZERRASH\Desktop\glfw-3.3.8\build\tests\Debug\msaa.exe

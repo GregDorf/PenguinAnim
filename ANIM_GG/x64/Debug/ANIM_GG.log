@@ -1,0 +1,134 @@
+﻿  main.cpp
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\MovingLib.h(63,8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\MovingLib.h(64,8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(32,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(41,30): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(41,21): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(42,21): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(45,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(46,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(47,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(48,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(50,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(51,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(52,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(54,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(55,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(56,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(58,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(59,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(60,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(61,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(63,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(64,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(65,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(75,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(122,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(127,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(139,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(140,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(140,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(141,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(141,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(142,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(142,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(148,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(148,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(151,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(154,34): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(154,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(161,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(162,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(174,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(177,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(180,41): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(180,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(203,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(206,34): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(206,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(213,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(214,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(223,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(226,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(229,41): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(229,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(248,41): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(248,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(251,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(253,25): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(253,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(254,25): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(254,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(271,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(274,46): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(274,22): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(295,47): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(295,23): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(302,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(303,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(313,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(316,45): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(316,21): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(337,46): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(337,22): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(344,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(345,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(354,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(357,46): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(357,22): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(375,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(378,45): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(378,21): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(403,41): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(403,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(407,33): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(407,20): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(408,38): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(409,32): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(409,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(411,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(412,33): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(412,20): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(413,24): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(414,32): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(414,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(422,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(426,33): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(426,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(429,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(429,20): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(430,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(431,39): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(431,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(432,38): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(432,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(434,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(434,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(435,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(436,38): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(436,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(437,37): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(437,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(495,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(498,39): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(498,25): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(590,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(602,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(605,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(606,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(607,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(609,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(610,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(611,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(612,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(614,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(615,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(616,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(617,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(619,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(620,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(621,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(622,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(624,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ZERRASH\Desktop\ANIM_GG\ANIM_GG\ObjectsLib.h(625,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  ANIM_GG.vcxproj -> C:\Users\ZERRASH\Desktop\ANIM_GG\x64\Debug\ANIM_GG.exe

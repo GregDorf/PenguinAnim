@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/ZERRASH/Desktop/glfw-3.3.8/tests/CMakeLists.txt
+  inputlag.c
+  getopt.c
+  glad_gl.c
+  Создание кода...
+  inputlag.vcxproj -> C:\Users\ZERRASH\Desktop\glfw-3.3.8\build\tests\Debug\inputlag.exe
