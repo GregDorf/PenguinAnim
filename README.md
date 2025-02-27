@@ -1,11 +1,11 @@
 ENG: It's a studying project with using C and OpenGL to make graphical interface.  
-RU: 
+RU: Это учебный проект с использованием C и OpenGL для создания графического интерфейса.  
 
 ENG: To feed the penguin, press the space bar, after which a fish will fall from the sky, drag its mouse to the beak while holding down the mouse switch button.  
-RU: 
+RU: Чтобы покормить пингвина, нажмите пробел, после чего с неба упадет рыба, перетащите ее мышкой к клюву, удерживая кнопку переключения мыши.  
 
-ENG: Pictures describes this project:  
-RU: 
+ENG: Pictures describing this project:  
+RU: Картинки описывающие этот проект:  
 
 ![изображение](https://github.com/user-attachments/assets/8c194a75-da7e-471c-8760-46df574fc14d)
 
@@ -13,5 +13,6 @@ RU:
 
 ![изображение](https://github.com/user-attachments/assets/08c339d1-c138-49d6-a001-e69a17943680)
 
-ENG: 
-RU: 
+ENG: You can download it from the link below:
+RU: Скачать его можно по ссылке ниже:
+https://github.com/GregDorf/PenguinAnim/releases/tag/release
