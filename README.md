@@ -1,10 +1,10 @@
-ENG: It's a studying project with using C and OpenGL to make graphical interface.
+ENG: It's a studying project with using C and OpenGL to make graphical interface.  
 RU: 
 
-ENG: To feed the penguin, press the space bar, after which a fish will fall from the sky, drag its mouse to the beak while holding down the mouse switch button.
+ENG: To feed the penguin, press the space bar, after which a fish will fall from the sky, drag its mouse to the beak while holding down the mouse switch button.  
 RU: 
 
-ENG: Pictures describes this project:
+ENG: Pictures describes this project:  
 RU: 
 
 ![изображение](https://github.com/user-attachments/assets/8c194a75-da7e-471c-8760-46df574fc14d)
